@@ -1,5 +1,5 @@
 import subscribe from "../assets/subscribe.svg";
-import "./subscribe.css";
+import "./Subscribe.css";
 
 function Subscribe() {
   return (
