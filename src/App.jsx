@@ -4,7 +4,7 @@ import Form from "./components/Form";
 import Navbar from "./components/Navbar";
 import Start from "./components/Start";
 import Subscribe from "./components/Subscribe";
-import FAQ from "./components/faq";
+import FAQ from "./components/Data";
 
 function App() {
   function getFAQ(faq) {
