@@ -1,0 +1,13 @@
+#questionPara {
+  font-weight: 600;
+  font-size: 20px;
+}
+#answerPara {
+  margin-top: -10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+#hr2 {
+  margin: 20px 0 30px 0px;
+  border: 1px solid #c9cfdd60;
+}

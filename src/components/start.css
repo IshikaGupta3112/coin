@@ -1,0 +1,21 @@
+#startDiv {
+  text-align: center;
+  background-color: #0052fe;
+  padding: 20px 30px;
+  border-radius: 8px;
+  width: 500px;
+  min-width: 350px;
+  color: white;
+  height: 500px;
+}
+
+#imgDiv {
+  padding: 40px 0;
+}
+
+#startDiv button {
+  border-radius: 8px;
+  border: none;
+  height: 48px;
+  padding: 0 30px;
+}
